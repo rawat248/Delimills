@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.card {
+
+    width: 400px;
+    margin-bottom: 2em;
+}
+
+.card1 {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 2em;
+}
+
+.card-img-top {
+    width: 100%;
+}
+
+@media (max-width: 320px) {
+    html {
+        font-size: 0.5em;
+    }
+}
+
+.modal-body label {
+    width: 140px;
+    display: inline-block;
+    margin: 0.2cm;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.modal-body textarea {
+    width: 180px;
+}
+
+input[type="text"] {
+    width: 180px;
+
+}
