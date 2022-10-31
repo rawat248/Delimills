@@ -18,10 +18,10 @@ click on delete button
 - Bootstrap 
 
 ## Trainee Achieved
-- knowledge of Bootstrap 
+- having knowledge of Bootstrap 
 - Learned on working in CRUD operations
 - knowledge of using API
 
 ## Tech stack
-### _Language_ : Javascript
-### _Package management_ : NPM
+### _Language_ : HTML,CSS,Javascript
+
