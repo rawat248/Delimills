@@ -23,5 +23,5 @@ click on delete button
 - knowledge of using API
 
 ## Tech stack
-### _Language_ : HTML,CSS,Javascript
+### _Language_ : HTML, CSS, Javascript
 
