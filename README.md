@@ -18,7 +18,7 @@ click on delete button
 - Bootstrap 
 
 ## Trainee Achieved
-- Having knowledge of Bootstrap 
+- knowledge of Bootstrap 
 - Learned on working in CRUD operations
 - knowledge of using API
 
